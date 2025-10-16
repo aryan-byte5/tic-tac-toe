@@ -21,5 +21,4 @@ mvn clean compile exec:java -Dexec.mainClass="com.tictactoe.App"
 - Java 11 or above
 - Maven
 
-## License
-This project is licensed under the MIT License.
+
